@@ -6,7 +6,6 @@
 
 Welcome to my GitHub page! I am Hussain, a Master's student in Software Engineering with a passion for AI and FinTech. I am currently working on my thesis focused on **Fraud Detection using AI/ML**, and I enjoy exploring how machine learning can drive innovation in financial technology.
 
-<img align="right" alt="img" src="https://your-image-link" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Completing my Master's thesis on **Fraud Detection in FinTech**
