@@ -1,12 +1,35 @@
-# Hi, I'm Syed Ijlal 👋
 
-I'm a Masters student of Software Engineering at Northeastern University.
+### Hi there 👋  
+### This is Hussain Syed Ijlal!
 
-## 🔭 I’m currently working on ...
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ijlal/)
 
-- [I'm working on AI, Data Science, FinTech, Blockchain, Web 3.0 and other emerging technologies.]
+Welcome to my GitHub page! I am Hussain, a Master's student in Software Engineering with a passion for AI and FinTech. I am currently working on my thesis focused on **Fraud Detection using AI/ML**, and I enjoy exploring how machine learning can drive innovation in financial technology.
 
+<img align="right" alt="img" src="https://your-image-link" width="50%" height="auto" />
 
-## 📫 How to reach me ...
+#### 🌱 Things I am currently working on: 
+- Completing my Master's thesis on **Fraud Detection in FinTech**
+- Developing projects around **AI, Machine Learning, and APIs**
+- Continuing my internship at **Neusoft Medical** as a Software Engineer
 
-- Email: syedijlalbzu@gmail.com
+#### :muscle: Challenges I'm setting for myself:
+- Coding and improving my programming skills every day
+- Staying consistent with exercising and maintaining work-life balance
+- Expanding my knowledge in **AWS** and cloud-based solutions
+
+#### :computer: Programming languages and tools I use:
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/aws/aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
